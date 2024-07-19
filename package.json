@@ -1,9 +1,14 @@
 {
   "name": "lyy-test-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test npm upload",
   "main": "index.js",
-  "keywords": ["utils", "format", "money", "phone"],
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
